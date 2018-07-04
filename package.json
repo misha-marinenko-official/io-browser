@@ -4,7 +4,8 @@
   "description": "The I/O Browser based on chromium.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/misha-marinenko-official/io-browser/issues"
   },
-  "homepage": "https://github.com/misha-marinenko-official/io-browser#readme"
+  "homepage": "https://github.com/misha-marinenko-official/io-browser#readme",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
 }
