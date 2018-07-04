@@ -2,6 +2,11 @@
 
 The I/O Browser.
 
+## Just download the release here:
+https://github.com/misha-marinenko-official/io-browser/releases
+
+or:
+
 ## To start Browser you need:
 
 - Node.js (latest)
