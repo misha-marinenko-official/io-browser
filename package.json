@@ -31,7 +31,7 @@
     "url": "https://github.com/misha-marinenko-official/io-browser/issues"
   },
   "homepage": "https://github.com/misha-marinenko-official/io-browser#readme",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^2.0.4"
   }
 }
