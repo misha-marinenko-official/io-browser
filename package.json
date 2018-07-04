@@ -1,0 +1,34 @@
+{
+  "name": "io-browser",
+  "version": "0.0.0",
+  "description": "The I/O Browser based on chromium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misha-marinenko-official/io-browser.git"
+  },
+  "keywords": [
+    "browser",
+    "electrum",
+    "chrome",
+    "linux",
+    "windows",
+    "darwin",
+    "macos",
+    "node",
+    "webkit"
+  ],
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/misha-marinenko-official/io-browser/issues"
+  },
+  "homepage": "https://github.com/misha-marinenko-official/io-browser#readme",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
