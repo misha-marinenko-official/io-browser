@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "The I/O Browser based on chromium.",
   "main": "index.js",
+  "build": {
+    "appId": "wh0ami.browseIO"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
